@@ -1,10 +1,3 @@
-/*
-    N220
-    Hieu Nguyen
-    Week 10 assignment
-    Number Guesser
-*/
-
 
 //create function main
 function main(){
